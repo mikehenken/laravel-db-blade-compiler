@@ -8,9 +8,9 @@ This package generates and returns a compiled view from a blade-syntax field in 
 
 ### Installation
 
-Require this package in your composer.json and run composer update (or run `composer require flynsarmy/db-blade-compiler:1.*` directly):
+Require this package in your composer.json and run composer update (or run `composer require mikeheknen/laravel-db-blade-compiler:1.*` directly):
 
-    "flynsarmy/db-blade-compiler": "1.*"
+    "mikeheknen/laravel-db-blade-compiler": "1.*"
 
 After updating composer, add the ServiceProvider to the providers array in app/config/app.php
 
